@@ -17,7 +17,7 @@ DotNetProject is a .NET 8.0 web application designed to demonstrate modern web d
 ### Running Locally
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jadeleke/DotNetProject.git
    cd DotNetProject
    ```
 2. Build and run the application:
